@@ -6,4 +6,4 @@ Realización tarea AE-3 Pruebas del software con JUnit Jupiter sobre las clases:
   - Resta
   - Cociente
   - Producto
-  - Principal
+ 
