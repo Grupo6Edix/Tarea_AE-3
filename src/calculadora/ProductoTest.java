@@ -43,7 +43,7 @@ class ProductoTest {
 	}
 	
 	@Test
-	void testProductoDosReales_Inorrecto() {
+	void testProductoDosReales_Incorrecto() {
 		System.out.println("Realizando test.");
 		
 		double resultadoEsperado = -1;
