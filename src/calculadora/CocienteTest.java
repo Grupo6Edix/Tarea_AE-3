@@ -34,7 +34,7 @@ class CocienteTest {
 
 	@Test
 	void testDivisionReal_Correcto() {
-		double resultadoEsperado = 2.5;
+		double resultadoEsperado = 2.50;
 		double resultadoReal = Cociente.divisionReal(5.00, 2.00);
 		
 		assertEquals(resultadoEsperado, resultadoReal);
@@ -58,7 +58,7 @@ class CocienteTest {
 
 	@Test
 	void testDivisionEntera_Correcto() {
-		double resultadoEsperado = 4;
+		double resultadoEsperado = 4.00;
 		double resultadoReal = Cociente.divisionEntera(20, 5);
 		
 		assertEquals(resultadoEsperado, resultadoReal);
