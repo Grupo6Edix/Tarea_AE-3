@@ -18,7 +18,6 @@ class SumaTest {
 
 	@AfterAll
 	static void tearDownAfterClass() throws Exception {
-		Suma.acumulado(0);
 		System.out.println("Fin de las pruebas.");
 		System.out.println("--------------------");
 	}
